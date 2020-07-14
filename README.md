@@ -15,6 +15,7 @@ and redux persist. Uses latest version of react-navigation (v5)
 
 </p>
 
+Test
 ## Scalability Factor
 
 This Type based Architecture scales smoothly for small - medium apps. If you guys are building a very large application I would suggest using the following feature based architecture which will be more developer friendly with ease of scaling.
